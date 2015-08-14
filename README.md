@@ -1,4 +1,4 @@
-Role Name
+alfred-json [![Build Status](https://travis-ci.org/dereulenspiegel/ansible-alfred-json.svg)](https://travis-ci.org/dereulenspiegel/ansible-alfred-json)
 =========
 
 A brief description of the role goes here.
